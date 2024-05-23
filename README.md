@@ -1,4 +1,3 @@
-# MAIN
 # 💫 Olá, sou Luciane 
 
 Sou uma mulher apaixonada por tecnologia, bacharel em física com mestrado em engenharia elétrica e doutorado em medicina.  
